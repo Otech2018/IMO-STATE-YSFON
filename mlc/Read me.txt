@@ -1,0 +1,43 @@
+
+
+            id="mlc_blinker"  used to blink element @mlc.js change timer @L2
+			
+			class="mlc_btt"  used for back to top   @mlc.js change timer @L18
+			
+			class="mlc_drag"  used for dragging element    
+			
+			class="mlc_drag_r"  used for dragging element  with revert   @mlc.js change timer @L26
+			
+			class="mlc_sort1 to 5"  used for sorting  element    
+			
+			class="mlc_anitim"  used for timming animate   @mlc.css change timer, duration and counter @L2 to L5
+			
+			
+			//for animation on click
+			class="mlc_aniClick"  used for the element to click
+			class="mlc_aniAct"  used for the element to animate
+			
+			 @mlc.js change animation name @L32
+			//
+			
+		
+		//PRELOADER
+		class="mlc_preloder"  used for PRELOADER   
+		@header_home.php change preloader using text or image @L5
+		NOTE:you can change the text color etc when implementing the preloder  
+	   @mlc.js change fade out timer @L47
+	   @script_head.php  change background color  @L22
+	 
+		
+		//
+		
+	  id="editor"  used for ck editor @mlc.js config @L57 to L63
+	  
+	  ===============
+	  php
+	  
+	  $Date_lg= date('l, F d Y.');
+
+	$Date_sm= date('d/m/Y');
+	  
+	  ===============
